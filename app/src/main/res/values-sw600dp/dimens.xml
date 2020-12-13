@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Inserindo tamanho diferente para tablet-->
+    <dimen name="welcome_textsize">80sp</dimen>
+</resources>
